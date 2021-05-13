@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi I'm MrQwenty <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!--
-**MrQwenty/MrQwenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 🧑🏻‍💻 Creative Developer focused on M.E.R.N & M.E.V.N Stack 🤖  and Flutter with GoLang, <br> 
+for interactive projects that usually are apps, games and Creative websites. <br>
+I Spend most of time coding outstanding projects or studying new technologies to improve my development stack..
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-ReactJS-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Vuejs Badge](https://img.shields.io/badge/-Vuejs-3C873A?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=3C873A)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Typescript Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-Go-61DBFB?style=for-the-badge&labelColor=black&logo=go&logoColor=61DBFB)](#)
+
+
