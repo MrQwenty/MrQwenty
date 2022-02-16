@@ -13,7 +13,7 @@ View my work on my [Website](https://matteopelosi.net)
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-ReactJS-61DBFB?style=for-the-badge&labelColor=black&logo=&logoColor=61DBFB)](#) &emsp; [![Vuejs Badge](https://img.shields.io/badge/-VueJS-3C873A?style=for-the-badge&labelColor=black&logo=vue&logoColor=3C873A)](#) &emsp; [![Redux Badge](https://img.shields.io/badge/-Redux-e535ab?style=for-the-badge&labelColor=black&logo=&logoColor=e535ab)](#) &emsp; [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=&logoColor=3C873A)](#) &emsp; [![Unity Badge](https://img.shields.io/badge/-Unity-8E9087?style=for-the-badge&labelColor=black&logo=&logoColor=8E9087)](#) &emsp; [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=&logoColor=007acc)](#) &emsp; [![Go Badge](https://img.shields.io/badge/-Go-61DBFB?style=for-the-badge&labelColor=black&logo=&logoColor=61DBFB)](#)
+[![React Badge](https://img.shields.io/badge/-ReactJS-61DBFB?style=for-the-badge&labelColor=black&logo=&logoColor=61DBFB)](#) &emsp; [![Redux Badge](https://img.shields.io/badge/-Redux-e535ab?style=for-the-badge&labelColor=black&logo=&logoColor=e535ab)](#) &emsp; [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=&logoColor=3C873A)](#) &emsp; [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=&logoColor=007acc)](#) &emsp; [![Go Badge](https://img.shields.io/badge/-Go-61DBFB?style=for-the-badge&labelColor=black&logo=&logoColor=61DBFB)](#)
 
 
 
