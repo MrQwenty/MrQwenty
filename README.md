@@ -5,7 +5,7 @@ for interactive projects that usually are apps, VR and Creative websites. <br>
 I Spend most of time coding outstanding projects or studying new technologies to improve my development stack..
 
 
-[![MrQwenty's stats](https://github-readme-stats.vercel.app/api?username=MrQwenty&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+
 View my work on my [Website](https://matteopelosi.net)
 
 
