@@ -1,7 +1,7 @@
 ## Hi I'm MrQwenty 
 
-I'm a 🧑🏻‍💻 Creative Developer 🤖 who develops <br> 
-interactive projects that usually are apps, VR and Creative websites. <br>
+I'm a 🧑🏻‍💻 Software Developer 🤖 who develops <br> 
+interactive projects that usually are apps, Creative websites and Software. <br>
 I Spend most of time coding outstanding projects or studying new technologies to improve my development stack..
 
 
