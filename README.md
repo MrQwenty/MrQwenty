@@ -28,8 +28,6 @@ Think **speech↔text↔speech** streaming that keeps **tone, style, and intent*
 
 * 🎯 **Use cases:** video calls, customer support, global teams, telemedicine, gaming
 * 🔒 **Privacy-first:** per-tenant isolation with on-prem / dedicated options
-* 🧩 **Pluggable stack:** modular ASR/MT/TTS pipeline; SDKs for web & mobile
-* 🧱 **Tech:** Go, gRPC, WebRTC, SvelteKit, Redis, PostgreSQL, Docker/K8s, Nix/NixOS
 
 👉 Follow the journey: [hi7o.com](https://hi7o.com)
 
