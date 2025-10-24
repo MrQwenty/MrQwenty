@@ -21,18 +21,6 @@ Whether you're running **Linux**, **Windows**, or a custom OS, Rixen lets you de
 
 ---
 
-#### 🌍 Hi7o — Real-Time, Cross-Language Communication
-
-**Hi7o** makes people sound native to each other during calls and chats — with **live translation** and **voice preservation**.
-Think **speech↔text↔speech** streaming that keeps **tone, style, and intent** while targeting **sub-second latency**.
-
-* 🎯 **Use cases:** video calls, customer support, global teams, telemedicine, gaming
-* 🔒 **Privacy-first:** per-tenant isolation with on-prem / dedicated options
-
-👉 Follow the journey: [hi7o.com](https://hi7o.com)
-
----
-
 ### 🛠️ Top Technologies & Tools
 
 [![React Badge](https://img.shields.io/badge/-ReactJS-61DBFB?style=for-the-badge\&labelColor=black)](#)  
