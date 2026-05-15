@@ -4,7 +4,7 @@
 
 Self-taught engineer from Italy with roots in **industrial automation and PLC programming**. Over the past decade I've worked across distributed systems, real-time media (WebRTC), and large-scale AI training. I care about clean architectures, low latency, and getting the most out of every layer.
 
-📍 Brescia, Italy
+📍 Mantova, Italy
 🔗 **Portfolio:** [matteopelosi.net](https://matteopelosi.net) · **Company:** [hitoo.io](https://hitoo.io)
 
 ---
